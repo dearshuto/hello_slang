@@ -1,0 +1,9 @@
+[package]
+name = "hello_slang"
+version = "0.1.0"
+edition = "2024"
+
+[dev-dependencies]
+pollster = "*"
+wgpu = "25.0.2"
+winit = "0.30.11"
